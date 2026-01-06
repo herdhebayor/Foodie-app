@@ -1,0 +1,532 @@
+[
+    {
+    "name":"Jollof rice",
+    "image":"jollof-rice.jpg",
+    "description":"A scoop of delicious rice dish cooked in a flavorful tomato sauce.",
+    "price":"3,500",
+    "available": true,
+    "category": "Main Course",
+    "options": [
+        {
+        "name": "Beef",
+        "image": "beef.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Chicken",
+        "image": "chicken.jpg",
+        "price": "3,500"
+    },
+    {
+        "name": "Turkey",
+        "image": "turkey.jpg",
+        "price": "4,000"
+    },
+    {
+        "name": "Egg",
+        "image": "egg.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Goat meat",
+        "image": "goat-meat.jpg",
+        "price": "4,500"
+    }
+]
+},
+    {
+    "name":"White rice and stew",
+    "image":"white-rice-and-stew.jpg",
+    "description":"A scoop of white rice served with a peppered sauced stew.",
+    "price":"3,500",
+    "available": true,
+    "category": "Main Course",
+    "options": [
+        {
+        "name": "Beef",
+        "image": "beef.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Chicken",
+        "image": "chicken.jpg",
+        "price": "3,500"
+    },
+    {
+        "name": "Egg",
+        "image": "egg.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Fish",
+        "image": "fish.jpg",
+        "price": "2,000"
+    },
+    {
+        "name":"Turkey",
+        "image": "turkey.jpg",
+        "price": "4,000"
+    }
+]
+    },
+    {
+    "name":"Fried rice",
+    "image":"fried-rice.jpg",
+    "description":"A scoop of delicious rice dish stir-fried with vegetables and spices.",
+    "price":"3,500",
+    "available": true,
+    "category": "Main Course",
+    "options": [
+        {
+        "name": "Beef",
+        "image": "beef.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Chicken",
+        "image": "chicken.jpg",
+        "price": "3,500"
+    },
+    {
+        "name": "Egg",
+        "image": "egg.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Fish",
+        "image": "fish.jpg",
+        "price": "2,000"
+    }
+    ]
+    },
+    {
+    "name":"Jollof spaghetti",
+    "image":"jollof-spaghetti.jpg",
+    "description":"A portion of delicious spaghetti dish cooked in a flavorful tomato sauce.",
+    "price":"3,500",
+    "available": true,
+    "category": "Main Course",
+    "options": [
+        {
+        "name": "Beef",
+        "image": "beef.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Chicken",
+        "image": "chicken.jpg",
+        "price": "3,500"
+    },
+    {
+        "name": "Egg",
+        "image": "egg.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Fish",
+        "image": "fish.jpg",
+        "price": "2,000"
+    },
+    {
+        "name": "Turkey",
+        "image": "turkey.jpg",
+        "price": "4,000"
+    }
+    ]
+    },
+    {
+    "name":"Ewa agoyin and sauce",
+    "description":"A delicious ewa agoyin dish served with a sauce.",
+    "price":"2000",
+    "available": true,
+    "category": "Main Course",
+    "options": [
+        {
+        "name": "Beef",
+        "image": "beef.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Chicken",
+        "image": "chicken.jpg",
+        "price": "3,500"
+    },
+    {
+        "name": "Egg",
+        "image": "egg.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Fish",
+        "image": "fish.jpg",
+        "price": "3,000"
+    },
+    {
+        "name": "Turkey",
+        "image": "turkey.jpg",
+        "price": "4,000"
+    }
+    ]
+    },
+    {
+    "name":"Ewa agoyin and Plantain",
+    "image":"ewa-agoyin-and-plantain.jpg",
+    "description":"Ewa agoyin dish served with a flavorful sauce and plantain",
+    "price":"3,000",
+    "available": true,
+    "options": [
+         {
+        "name": "Beef",
+        "image": "beef.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Chicken",
+        "image": "chicken.jpg",
+        "price": "3,500"
+    },
+    {
+        "name": "Egg",
+        "image": "egg.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Fish",
+        "image": "fish.jpg",
+        "price": "3,000"
+    },
+    {
+        "name": "Turkey",
+        "image": "turkey.jpg",
+        "price": "4,000"
+    }]
+    },
+    {
+    "name":"Abula Combo",
+    "image":"abula-combo.jpg",
+    "description":"three wraps of amala served with ewedu and gbegiri soup",
+    "price":"1,500",
+    "available": true,
+    "options": [
+        {
+        "name": "Beef",
+        "image": "beef.jpg",
+        "price": "500"
+    },
+    {
+        "name": "Chicken",
+        "image": "chicken.jpg",
+        "price": "3,500"
+    },
+    {
+        "name": "Fish",
+        "image": "fish.jpg",
+        "price": "3,000"
+    },
+    {
+        "name": "Turkey",
+        "image": "turkey.jpg",
+        "price": "4,000"
+    }
+    ],
+    "category": "Swallow"
+    },
+    {
+    "name":"Fufu",
+    "image":"fufu.jpg",
+    "description":"a wrap of fufu",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "Swallow"
+    },
+{
+    "name":"Semo",
+    "image":"semo.jpg",
+    "description":"A wrap of semovita",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "Swallow"
+    },
+    {
+    "name":"Amala",
+    "image":"amala.jpg",
+    "description":"A wrap of yam flour",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "Swallow"
+    },
+    {
+    "name":"Eba",
+    "image":"eba.jpg",
+    "description":"A wrap of eba",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "Swallow"
+    },
+    {
+    "name":"Wheat",
+    "image":"wheat.jpg",
+    "description":"A wrap of wheat flour",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "Swallow"
+    },
+    {
+    "name":"Poundo",
+    "image":"poundo.jpg",
+    "description":"A wrap of poudo yam",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "Swallow"
+    },
+    {
+    "name":"Starch",
+    "image":"starch.jpg",
+    "description":"A wrap of starch",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "Swallow"
+    },
+    {
+    "name":"Egusi Soup",
+    "image":"egusi-soup.jpg",
+    "description":"A delicious egusi soup diced with stockfish proteins and beef.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": "Soups"
+    },
+    {
+    "name":"Afang Soup",
+    "image":"afang-soup.jpg",
+    "description":"A delicious afang soup made with fluted pumpkin leaves and assorted meats.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": "Soups"
+    },
+    {
+    "name":"Oha Soup",
+    "image":"oha-soup.jpg",
+    "description":"A delicious oha soup made with fluted pumpkin leaves and assorted meats.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": "Soups"
+    },
+    {
+    "name":"Banga Soup",
+    "image":"banga-soup.jpg",
+    "description":"A delicious banga soup served with a flavorful sauce.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": "Soups"
+    },
+    {
+    "name":"okro Soup",
+    "image":"okro-soup.jpg",
+    "description":"A delicious okro soup served with a flavorful sauce.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": "Soups"
+    },
+    {
+    "name":"Goat meat",
+    "image":"goat-meat.jpg",
+    "description":"A piece of cooked Goat meat diced with pepper sauce.",
+    "price":"1,000",
+    "available": true,
+    "options": [],
+    "category": "Proteins"
+    },
+    {
+    "name":"Ogunfe",
+    "image":"ogunfe.jpg",
+    "description":"A piece of big ogunfe meat , diced with pepper sauce.",
+    "price":"4,500",
+    "available": true,
+    "options": [],
+    "category": "proteins"
+    },
+    {
+    "name":"Croaker Fish Berbeque",
+    "image":"croaker-fish-berbeque.jpg",
+    "description":"Grilled croaker berbeque with yam chips and vegetable",
+    "price":"8,000",
+    "available": true,
+    "options": [],
+    "category": ["proteins", "fish"]
+    },
+     {
+    "name":"Cat Fish Berbeque",
+    "image":"cat-fish-berbeque.jpg",
+    "description":"Grilled cat fish berbeque with yam chips and vegetable",
+    "price":"8,000",
+    "available": true,
+    "options": [],
+    "category": ["proteins", "fish"]
+    },
+     {
+    "name":"Cat Fish",
+    "image":"cat-fish.jpg",
+    "description":"A piece of cat fish diced with pepper sauce.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": ["proteins", "fish"]
+    },
+    {
+    "name":"Fish",
+    "image":"fish.jpg",
+    "description":"A piece of titus fish diced with pepper sauce.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": ["proteins", "fish"]
+    },
+    {
+    "name":"Beef",
+    "image":"beef.jpg",
+    "description":"Protein beef",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "proteins"
+    },
+    {
+    "name":"Chicken Lap",
+    "image":"chicken.jpg",
+    "description":"Chicken lap, sauce with pepper stew",
+    "price":"3,500",
+    "available": true,
+    "options": [],
+    "category": "proteins"
+    },
+    {
+    "name":"Full chicken",
+    "image":"full-chicken.jpg",
+    "description":"Full chicken, sauce with pepper stew",
+    "price":"8,000",
+    "available": true,
+    "options": [],
+    "category": "proteins"
+    },
+    {
+    "name":"Full Turkey",
+    "image":"full-turkey.jpg",
+    "description":"Full turkey, sauce with pepper stew",
+    "price":"8,500",
+    "available": true,
+    "options": [],
+    "category": "proteins"
+    },
+    {
+    "name":"Assorted Meat",
+    "image":"assorted-meat.jpg",
+    "description":"A platter of assorted meats, sauce with pepper stew",
+    "price":"8,500",
+    "available": true,
+    "options": [],
+    "category": "proteins"
+    },
+     {
+    "name":"Coke",
+    "image":"coke.jpg",
+    "description":"A 30cl of coke bottled soda",
+    "price":"800",
+    "available": true,
+    "options": [],
+    "category": "drinks"
+    },
+    {
+    "name":"Fanta",
+    "image":"fanta.jpg",
+    "description":"A 30cl of Fanta bottle soda",
+    "price":"800",
+    "available": true,
+    "options": [],
+    "category": "drinks"
+    },
+    {
+    "name":"Sprite",
+    "image":"sprite.jpg",
+    "description":"A 30cl of sprite bottled soda",
+    "price":"800",
+    "available": true,
+    "options": [],
+    "category": "drinks"
+    },
+    {
+    "name":"Hollandia Youghurt",
+    "image":"hollandia-youghurt.jpg",
+    "description":"1l hollandia youghurt",
+    "price":"3,000",
+    "available": true,
+    "options": [],
+    "category": "drinks"
+    },
+    {
+    "name":"Bottle water",
+    "image":"bottle-water.jpg",
+    "description":"A 30cl nestle bottle water",
+    "price":"500",
+    "available": true,
+    "options": [],
+    "category": "drinks"
+    },
+    {
+    "name":"Sharwama",
+    "image":"sharwama.jpg",
+    "description":"a sharwama roll with two hot dogs and optional beef or chicken",
+    "price":"3,500",
+    "available": true,
+    "options": ["beef", "chicken"],
+    "category": "chops"
+    },
+    {
+    "name":"Meat Pie",
+    "image":"meat-pie.jpg",
+    "description":"A delicious meat pie filled with minced meat and spices.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": "chops"
+    },
+    {
+    "name":"Chicken Pie",
+    "image":"chicken-pie.jpg",
+    "description":"A delicious chicken pie filled with minced chicken and spices.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": "chops"
+    },
+    {
+    "name":"Egg roll",
+    "image":"egg-roll.jpg",
+    "description":"A delicious egg roll filled with seasoned eggs and spices.",
+    "price":"800",
+    "available": true,
+    "options": [],
+    "category": "chops"
+    },
+    {
+    "name":"Chop Pack",
+    "image":"chop-pack.jpg",
+    "description":"A delicious chop pack filled with assorted meats and spices.",
+    "price":"1,500",
+    "available": true,
+    "options": [],
+    "category": "chops"
+    }
+
+]
